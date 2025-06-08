@@ -22,7 +22,6 @@ A simple Python-based Caesar Cipher tool that allows users to encrypt and decryp
 
 - Python 3.x installed on your system
 
-### 📁 Clone the Repository
 
 ## ▶️ Run the Script
 
